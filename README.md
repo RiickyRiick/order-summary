@@ -69,7 +69,7 @@ i.e., header, .second-container, .third-container, .stacked and every grouping t
 
 --went on desgining the button by adding its necessary color, borders, and background-color for inactive and active states. 
 
---and finshed off with the last paragraph and header 
+--and finshed off with the last paragraph and footer 
 
 
 ### Built with

@@ -11,10 +11,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -81,22 +78,15 @@ i.e., header, .second-container, .third-container, .stacked and every grouping t
 
 ### What I learned
 
-My learning process was very organzied and concise. I completed this project all by myself without the need of any resources, only the prior knowledge that I've gained so far from all these projects. Especially, from the 'QR Component' project.
+My learning process was very organzied and concise. I completed this project all by myself without the need of any resources, only with the prior knowledge that I've gained so far from all these projects. Especially, from the 'QR Component' project.
 
-The only thing that did gave me a bit of a hard time was the image sizing. I was adding a width and the max-width which didn't give it fluidity. In other words, there was no responsiveness happening when sizing down the viewport. Once I added the width: 100%, eveything was all fixed.
+The only thing that did gave me a bit of a hard time was the image sizing and mistakenly adding width: 100vh instead of height: 100vh within the body selector. 
 
-
-## Useful resources
-
+Adding a width instead of height didn't give it fluidity. In other words, there was no responsiveness happening when sizing down the viewport. As for the image, adding a width: 450px was also limiting the responsiveness from the image. Changing it to widh: 100% within it's container made it coorectly size down.
 
 
 ## Author
 
 --Website: (https://www.rarroyoharo.com)<a href="https://www.rarroyoharo.com" target="_blank">rarroyoharo.com</a> 
 --Frontend Mentor - [@RiickyRiick]<a href="https://www.frontendmentor.io/profile/RiickyRiick" target="_blank">@RiickyRiick</a> 
-
-
-
-## Acknowledgments
-
 

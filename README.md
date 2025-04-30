@@ -17,9 +17,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-The overall design was a lot easier to excecute after completing more difficult projects. You begin to see a repetitve pattern that is used throughout similar projects. 
+After completing more difficult projects, the overall design was much easier to execute. You begin to see a repetitive pattern that is used throughout similar projects. 
 
-In this case, the 'Order Summary' project was very similar to the 'QR Component' project. From making sure you are using the correct HTML tags, to having the correct grouping within the HTML, then proceeding to correctly design the container, to placing it in the center of the viewport, designing the card content, and finally, finishing up with the footer at the end. 
+In this case, the 'Order Summary' project was similar to the 'QR Component' project. From making sure you are using the correct HTML tags to having the correct grouping within the HTML, to correctly designing the container, to placing it in the center of the viewport, designing the card content, and finally, finishing up with the footer at the end. 
 
 The steps are straightforward and good practice in learning the fundamentals of HTML and CSS. 
 
@@ -43,30 +43,30 @@ Users should be able to:
 
 ## My process
 
---I started off by placing the correct HTML tags
+--I started by placing the correct HTML tags
 
 -- Added all the images in its correct place
 
---I then proceeded to make necessary groupings of items in order for better alignment i.e., asuring that flexbox works properly within a group and responds effectively.
+I then proceeded to make necessary groupings of items to ensure better alignment, i.e., that Flexbox works properly within a group and responds effectively.
 
--- added the universal selector with 0 margins and 0 padding. Also, added box-sizing: border-box; allowing me to include the padding and border in an element's total width and height
+-- added the universal selector with zero margins and zero padding. Also, I added box-sizing: border-box, allowing me to include the padding and border in an element's total width and height
 
---I moved on to the body adding all the fonts, font sizing, background, and using this section align the main container
+--I moved on to the body, adding all the fonts, font sizing, and background, and using this section to align the main container
 
 --added margin and padding for spacing around the main container 
 
--- added all the required background-color, padding, and making sure nothing was overflowing the .card-content
+-- added all the required background-color, padding and made sure nothing was overflowing the .card-content
 
---I then started desgining the .card-text-content. Padding spacing and text alignment
+--I then started designing the .card-text-content. Padding spacing and text alignment
 
---began designing all the small details i.e., font size, font weight, and colors within all headers and paragraphs
+--began designing all the small details, i.e., font size, font weight, and colors within all headers and paragraphs
 
 --then proceeded to add correct spacing between all containers 
-i.e., header, .second-container, .third-container, .stacked and every grouping that needed correct spacing
+i.e., header, .second-container, .third-container, .stacked, and every grouping that needed correct spacing
 
---went on desgining the button by adding its necessary color, borders, and background-color for inactive and active states. 
+-—continued designing the button by adding the necessary colors for its borders and background for inactive and active states. 
 
---and finshed off with the last paragraph and footer 
+--and finished off with the last paragraph and footer 
 
 
 ### Built with
@@ -78,11 +78,13 @@ i.e., header, .second-container, .third-container, .stacked and every grouping t
 
 ### What I learned
 
-My learning process was very organzied and concise. I completed this project all by myself without the need of any resources, only with the prior knowledge that I've gained so far from all these projects. Especially, from the 'QR Component' project.
+My learning process was very organized and concise. I finished this project alone without needing any resources, only with the prior knowledge I've gained from resources and all the projects I've completed so far.
 
-The only thing that did gave me a bit of a hard time was the image sizing and mistakenly adding width: 100vh instead of height: 100vh within the body selector. 
+The only thing that gave me a hard time was the header image sizing and mistakenly adding width: 100vh instead of height: 100vh within the body selector. 
 
-Adding a width instead of height didn't give it fluidity. In other words, there was no responsiveness happening when sizing down the viewport. As for the image, adding a width: 450px was also limiting the responsiveness from the image. Changing it to widh: 100% within it's container made it coorectly size down.
+Adding a width instead of height didn't give it fluidity. In other words, there was no responsiveness when sizing down the viewport.
+
+ For the header image, adding a width of 450px also limited its responsiveness. Changing it to width 100% within its container made it correctly size down.
 
 
 ## Author
